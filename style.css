@@ -1,0 +1,108 @@
+body{
+    background-color:gray;
+}
+@font-face {
+    font-family: "blabla";
+    src: url('Shenttpuro\ Font.ttf') format('truetype');
+  }
+h1 {
+    color: orangered;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 58px;
+    font-family: blabla ;
+    width:auto;
+}
+.tout{
+    background-color: rgb(246, 241, 241);
+}
+
+#head {
+    text-align: center;
+    background-color: black;
+}
+.naruto,.piece,.dragon,.demon,.kuruko,.conan,.exorcist,.mha,.snk,.kaisen,.death,.punch,.revenger,.fairy,.hxh,.bleach,.baki,.metal  {
+    height: 350px;
+    width: 90%;
+    max-width: 350px;
+    margin: 10px;
+}
+
+.fairy:hover,.kuruko:hover,.snk:hover,.mha:hover,.conan:hover,.exorcist:hover,.hxh:hover,.bleach:hover,.punch:hover,.death:hover,.naruto:hover,.revenger:hover,.baki:hover,.kaisen:hover,.demon:hover,.metal:hover,.piece:hover,.dragon:hover{
+    transform: scale(1.1);
+}
+.table{
+    align-items: center;
+    padding: 0%;
+    margin: 0%;
+    position: relative;
+    justify-content: center;
+    width: auto;
+    background-color:rgb(221, 221, 229);
+    left: 20%;
+    max-width: 60%;
+   
+   
+   
+ 
+
+}
+button{
+    display: flex;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    justify-self: center;
+    justify-content: center;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+
+    
+}
+hr{
+    height: 10px;
+    background-color: black;
+}
+.boutonmenu{
+    
+    
+    height: 60px;
+    width: 340px;
+    justify-content:center;
+    font-size: 28px;
+    border-radius: 0%;
+    background-color:black;
+    color: white;
+    
+    
+}
+#menu{
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+}
+.tout{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    
+  }
+
+.beau{
+    height: 100%;
+    width: 20%;
+   position: absolute;
+   top: 0;
+}
+.belle{
+    height: 100%;
+    width: 20%;
+   position: absolute;
+   top: 0;
+   left: 80%;
+}

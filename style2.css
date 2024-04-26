@@ -1,0 +1,166 @@
+body {
+    background-color: gray;
+}
+
+@font-face {
+    font-family: "blabla";
+    src: url('Shenttpuro\ Font.ttf') format('truetype');
+}
+
+h1 {
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-size: 5vw;
+    font-family: blabla;
+}
+
+.tout {
+    background-color: rgb(246, 241, 241);
+}
+
+#head {
+    text-align: center;
+    background-color: black;
+}
+
+.naruto, .piece, .dragon, .demon, .kuruko, .conan, .exorcist, .mha, .snk, .kaisen, .death, .punch, .revenger, .fairy, .hxh, .bleach, .baki, .metal {
+    height: 20vw;
+    width: 20vw;
+}
+
+.fairy:hover, .kuruko:hover, .snk:hover, .mha:hover, .conan:hover, .exorcist:hover, .hxh:hover, .bleach:hover, .punch:hover, .death:hover, .naruto:hover, .revenger:hover, .baki:hover, .kaisen:hover, .demon:hover, .metal:hover, .piece:hover, .dragon:hover {
+    transform: scale(1.1);
+}
+
+.table {
+    align-items: center;
+    padding: 2%;
+    margin: 2%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(221, 221, 229);
+    background-image: url("photo manga/back.png"), url("photo manga/back.png");
+    background-repeat: no-repeat, no-repeat;
+    background-position: 5% top, 95% top;
+    background-size: 30vw 100%, 30vw 100%;
+}
+
+button {
+    display: flex;
+    height: 6vw;
+    width: 100%;
+    text-align: center;
+    justify-self: center;
+    justify-content: center;
+    font-size: 3.5vw;
+    background-color: black;
+    color: white;
+}
+
+hr {
+    height: 1vw;
+    background-color: black;
+}
+
+.boutonmenu {
+    height: 10vw;
+    width: 95%;
+    justify-content: center;
+    font-size: 4.5vw;
+    border-radius: 0%;
+    background-color: black;
+    color: white;
+}
+
+#menu {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}
+body {
+    background-color: gray;
+}
+
+@font-face {
+    font-family: "blabla";
+    src: url('Shenttpuro\ Font.ttf') format('truetype');
+}
+
+h1 {
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-size: 5vw;
+    font-family: blabla;
+}
+
+.tout {
+    background-color: rgb(246, 241, 241);
+}
+
+#head {
+    text-align: center;
+    background-color: black;
+}
+
+.naruto, .piece, .dragon, .demon, .kuruko, .conan, .exorcist, .mha, .snk, .kaisen, .death, .punch, .revenger, .fairy, .hxh, .bleach, .baki, .metal {
+    height: 20vw;
+    width: 20vw;
+}
+
+.fairy:hover, .kuruko:hover, .snk:hover, .mha:hover, .conan:hover, .exorcist:hover, .hxh:hover, .bleach:hover, .punch:hover, .death:hover, .naruto:hover, .revenger:hover, .baki:hover, .kaisen:hover, .demon:hover, .metal:hover, .piece:hover, .dragon:hover {
+    transform: scale(1.1);
+}
+
+.table {
+    align-items: center;
+    padding: 2%;
+    margin: 2%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(221, 221, 229);
+    background-image: url("photo manga/back.png"), url("photo manga/back.png");
+    background-repeat: no-repeat, no-repeat;
+    background-position: 5% top, 95% top;
+    background-size: 30vw 100%, 30vw 100%;
+}
+
+button {
+    display: flex;
+    height: 6vw;
+    width: 100%;
+    text-align: center;
+    justify-self: center;
+    justify-content: center;
+    font-size: 3.5vw;
+    background-color: black;
+    color: white;
+}
+
+hr {
+    height: 1vw;
+    background-color: black;
+}
+
+.boutonmenu {
+    height: 10vw;
+    width: 95%;
+    justify-content: center;
+    font-size: 4.5vw;
+    border-radius: 0%;
+    background-color: black;
+    color: white;
+}
+
+#menu {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}

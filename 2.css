@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: GRAY;
+  }
+  
+  .page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .boutonmenu{
+    margin-top: 100px;
+    height: 60px;
+    width: 340px;
+    justify-content:center;
+    font-size: 28px;
+    background-color:black;
+    color: white;   
+    
+}
+.menu{
+    display: flex;
+    justify-content: center;
+}
+  hr{
+    height: 10px;
+    background-color: black;
+}
+
